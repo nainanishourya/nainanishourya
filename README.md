@@ -52,8 +52,7 @@ I'm a **B.Tech CSE (Data Science)** student at **Chandigarh University**, passio
 </p>
 
 <p align="center">
-  <a href="https://aeris-uav-twin.vercel.app"><img src="https://img.shields.io/badge/AERIS-Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="AERIS live demo" /></a>
-  <a href="https://ai4students-ngo-website.vercel.app"><img src="https://img.shields.io/badge/AI4Students-Live_Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="AI4Students live site" /></a>
+  <sub><a href="https://aeris-uav-twin.vercel.app">AERIS live demo ↗</a> &nbsp;·&nbsp; <a href="https://ai4students-ngo-website.vercel.app">AI4Students live site ↗</a></sub>
 </p>
 
 <img src="assets/h-certs.svg" width="100%" alt="Certifications" />
