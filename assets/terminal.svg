@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="348" viewBox="0 0 860 348" role="img" aria-label="Terminal introduction">
 <defs>
   <linearGradient id="bd" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#00D9FF"/><stop offset="0.5" stop-color="#A855F7"/><stop offset="1" stop-color="#00D9FF"/>
+    <stop offset="0" stop-color="#88C0D0"/><stop offset="0.5" stop-color="#81A1C1"/><stop offset="1" stop-color="#88C0D0"/>
     <animateTransform attributeName="gradientTransform" type="translate" values="-860 0;860 0" dur="8s" repeatCount="indefinite"/>
   </linearGradient>
   <clipPath id="c0"><rect x="46.0" y="60" width="0" height="26"><animate attributeName="width" values="0;54.0" dur="0.42s" begin="0.8s" fill="freeze"/></rect></clipPath><clipPath id="c1"><rect x="46.0" y="120" width="0" height="26"><animate attributeName="width" values="0;153.0" dur="1.19s" begin="2.52s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="46.0" y="180" width="0" height="26"><animate attributeName="width" values="0;117.0" dur="0.91s" begin="5.01s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="46.0" y="240" width="0" height="26"><animate attributeName="width" values="0;117.0" dur="0.91s" begin="7.22s" fill="freeze"/></rect></clipPath>
@@ -11,23 +11,23 @@
 <circle cx="24" cy="19" r="6" fill="#FF5F56"/><circle cx="44" cy="19" r="6" fill="#FFBD2E"/><circle cx="64" cy="19" r="6" fill="#27C93F"/>
 <text x="430" y="24" fill="#8B949E" font-family="'Courier New', Courier, monospace" font-size="13" text-anchor="middle">shourya@chandigarh-university: ~</text>
 <g font-family="'Courier New', Courier, monospace" font-size="15">
-<text x="28" y="78" fill="#00D9FF" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="0.5s" fill="freeze"/></text>
+<text x="28" y="78" fill="#88C0D0" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="0.5s" fill="freeze"/></text>
 <text x="46.0" y="78" fill="#FFFFFF" clip-path="url(#c0)" textLength="54.0" lengthAdjust="spacing">whoami</text>
-<rect x="46.0" y="64" width="9" height="18" fill="#00D9FF" opacity="0"><set attributeName="opacity" to="1" begin="0.5s"/><animate attributeName="x" values="46.0;100.0" dur="0.42s" begin="0.8s" fill="freeze"/><set attributeName="opacity" to="0" begin="1.52s" fill="freeze"/></rect>
+<rect x="46.0" y="64" width="9" height="18" fill="#88C0D0" opacity="0"><set attributeName="opacity" to="1" begin="0.5s"/><animate attributeName="x" values="46.0;100.0" dur="0.42s" begin="0.8s" fill="freeze"/><set attributeName="opacity" to="0" begin="1.52s" fill="freeze"/></rect>
 <text x="46.0" y="105" fill="#C9D1D9" opacity="0">Shourya Nainani · B.Tech CSE (Data Science) @ Chandigarh University<animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.57s" fill="freeze"/></text>
-<text x="28" y="138" fill="#00D9FF" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="2.22s" fill="freeze"/></text>
+<text x="28" y="138" fill="#88C0D0" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="2.22s" fill="freeze"/></text>
 <text x="46.0" y="138" fill="#FFFFFF" clip-path="url(#c1)" textLength="153.0" lengthAdjust="spacing">cat interests.txt</text>
-<rect x="46.0" y="124" width="9" height="18" fill="#00D9FF" opacity="0"><set attributeName="opacity" to="1" begin="2.22s"/><animate attributeName="x" values="46.0;199.0" dur="1.19s" begin="2.52s" fill="freeze"/><set attributeName="opacity" to="0" begin="4.01s" fill="freeze"/></rect>
+<rect x="46.0" y="124" width="9" height="18" fill="#88C0D0" opacity="0"><set attributeName="opacity" to="1" begin="2.22s"/><animate attributeName="x" values="46.0;199.0" dur="1.19s" begin="2.52s" fill="freeze"/><set attributeName="opacity" to="0" begin="4.01s" fill="freeze"/></rect>
 <text x="46.0" y="165" fill="#C9D1D9" opacity="0">AI / ML  ·  Cybersecurity  ·  Automation  ·  IoT &amp; Autonomous Systems<animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.06s" fill="freeze"/></text>
-<text x="28" y="198" fill="#00D9FF" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="4.71s" fill="freeze"/></text>
+<text x="28" y="198" fill="#88C0D0" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="4.71s" fill="freeze"/></text>
 <text x="46.0" y="198" fill="#FFFFFF" clip-path="url(#c2)" textLength="117.0" lengthAdjust="spacing">ls ~/projects</text>
-<rect x="46.0" y="184" width="9" height="18" fill="#00D9FF" opacity="0"><set attributeName="opacity" to="1" begin="4.71s"/><animate attributeName="x" values="46.0;163.0" dur="0.91s" begin="5.01s" fill="freeze"/><set attributeName="opacity" to="0" begin="6.22s" fill="freeze"/></rect>
+<rect x="46.0" y="184" width="9" height="18" fill="#88C0D0" opacity="0"><set attributeName="opacity" to="1" begin="4.71s"/><animate attributeName="x" values="46.0;163.0" dur="0.91s" begin="5.01s" fill="freeze"/><set attributeName="opacity" to="0" begin="6.22s" fill="freeze"/></rect>
 <text x="46.0" y="225" fill="#C9D1D9" opacity="0">SentinalAI/   aeris-uav-twin/   AI4Students-NGO-Website/<animate attributeName="opacity" values="0;1" dur="0.4s" begin="6.27s" fill="freeze"/></text>
-<text x="28" y="258" fill="#00D9FF" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="6.92s" fill="freeze"/></text>
+<text x="28" y="258" fill="#88C0D0" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="6.92s" fill="freeze"/></text>
 <text x="46.0" y="258" fill="#FFFFFF" clip-path="url(#c3)" textLength="117.0" lengthAdjust="spacing">echo $MISSION</text>
-<rect x="46.0" y="244" width="9" height="18" fill="#00D9FF" opacity="0"><set attributeName="opacity" to="1" begin="6.92s"/><animate attributeName="x" values="46.0;163.0" dur="0.91s" begin="7.22s" fill="freeze"/><set attributeName="opacity" to="0" begin="8.43s" fill="freeze"/></rect>
+<rect x="46.0" y="244" width="9" height="18" fill="#88C0D0" opacity="0"><set attributeName="opacity" to="1" begin="6.92s"/><animate attributeName="x" values="46.0;163.0" dur="0.91s" begin="7.22s" fill="freeze"/><set attributeName="opacity" to="0" begin="8.43s" fill="freeze"/></rect>
 <text x="46.0" y="285" fill="#C9D1D9" opacity="0">Turning ideas into working projects. 🚀<animate attributeName="opacity" values="0;1" dur="0.4s" begin="8.48s" fill="freeze"/></text>
-<text x="28" y="318" fill="#00D9FF" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="9.129999999999999s" fill="freeze"/></text>
-<rect x="46.0" y="304" width="9" height="18" fill="#00D9FF" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="9.129999999999999s" repeatCount="indefinite"/></rect>
+<text x="28" y="318" fill="#88C0D0" font-weight="700" opacity="0">$<set attributeName="opacity" to="1" begin="9.129999999999999s" fill="freeze"/></text>
+<rect x="46.0" y="304" width="9" height="18" fill="#88C0D0" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="9.129999999999999s" repeatCount="indefinite"/></rect>
 </g>
 </svg>

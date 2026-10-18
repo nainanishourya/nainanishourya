@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="64" viewBox="0 0 860 64" role="img" aria-label="About Me">
 <defs>
   <linearGradient id="g" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#00D9FF"/><stop offset="0.5" stop-color="#A855F7"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    <stop offset="0" stop-color="#88C0D0"/><stop offset="0.5" stop-color="#81A1C1"/><stop offset="1" stop-color="#88C0D0" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 </defs>
-<text x="2" y="20" fill="#00D9FF" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" letter-spacing="2">// 01</text>
+<text x="2" y="20" fill="#88C0D0" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" letter-spacing="2">// 01</text>
 <text x="2" y="47" fill="#E6EDF3" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700">About Me
-  <animate attributeName="fill" values="#E6EDF3;#7FE9FF;#E6EDF3" dur="5s" repeatCount="indefinite"/></text>
+  <animate attributeName="fill" values="#E6EDF3;#88C0D0;#E6EDF3" dur="5s" repeatCount="indefinite"/></text>
 <rect x="2" y="57" width="0" height="3" rx="1.5" fill="url(#g)">
   <animate attributeName="width" values="0;856" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
 </rect>
