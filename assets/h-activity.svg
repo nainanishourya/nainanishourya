@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="64" viewBox="0 0 860 64" role="img" aria-label="Contribution Activity">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#00D9FF"/><stop offset="0.5" stop-color="#A855F7"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<text x="2" y="20" fill="#00D9FF" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" letter-spacing="2">// 05</text>
+<text x="2" y="47" fill="#E6EDF3" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700">Contribution Activity
+  <animate attributeName="fill" values="#E6EDF3;#7FE9FF;#E6EDF3" dur="5s" repeatCount="indefinite"/></text>
+<rect x="2" y="57" width="0" height="3" rx="1.5" fill="url(#g)">
+  <animate attributeName="width" values="0;856" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+</rect>
+<rect x="-80" y="57" width="80" height="3" fill="url(#s)" opacity="0.7">
+  <animate attributeName="x" values="-80;-80;860" keyTimes="0;0.4;1" dur="4.5s" begin="1.6s" repeatCount="indefinite"/>
+</rect>
+</svg>

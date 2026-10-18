@@ -16,22 +16,15 @@
   <a href="https://github.com/nainanishourya?tab=followers"><img src="https://img.shields.io/github/followers/nainanishourya?style=for-the-badge&logo=github&label=Followers&color=00D9FF&labelColor=0D1117" alt="GitHub followers" /></a>
 </p>
 
----
+<img src="assets/h-about.svg" width="100%" alt="About Me" />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="" /> About Me
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: Shourya Nainani, B.Tech CSE (Data Science) at Chandigarh University. Interests: AI/ML, Cybersecurity, Automation, IoT and Autonomous Systems." />
+</p>
 
-I'm a **B.Tech CSE (Data Science)** student at **Chandigarh University**, passionate about **AI, Machine Learning, Cybersecurity, and Software Development**.
-I build intelligent systems, automation tools, and real-world IoT solutions, and I'm always exploring new technologies and turning ideas into working projects.
+I'm a **B.Tech CSE (Data Science)** student at **Chandigarh University**, passionate about **AI, Machine Learning, Cybersecurity, and Software Development**. I build intelligent systems, automation tools, and real-world IoT solutions, and I'm always exploring new technologies and turning ideas into working projects.
 
-- 🎓 Pursuing **B.Tech CSE (Data Science)** at **Chandigarh University** (Class of 2029)
-- 🤖 Focused on **Artificial Intelligence, Machine Learning & Automation**
-- 🛡️ Exploring **Cybersecurity**: threat detection and security automation
-- 🛰️ Building **IoT & autonomous systems**: digital twins, real-time telemetry
-- ⚡ Motto: *Turning ideas into working projects.*
-
----
-
-## 🛠️ Tech Stack
+<img src="assets/h-stack.svg" width="100%" alt="Tech Stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,fastapi,sklearn,pandas,numpy&theme=dark&perline=8" alt="Languages and libraries" />
@@ -48,60 +41,21 @@ I build intelligent systems, automation tools, and real-world IoT solutions, and
   <img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=flat-square&labelColor=0D1117&logo=pytest&logoColor=white" alt="pytest" />
 </p>
 
----
+<img src="assets/h-projects.svg" width="100%" alt="Featured Projects" />
 
-## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/nainanishourya/SentinalAI"><img src="assets/card-sentinalai.svg" width="49%" alt="SentinalAI: real-time multi-agent AI Security Operations Center" /></a>
+  <a href="https://github.com/nainanishourya/aeris-uav-twin"><img src="assets/card-aeris.svg" width="49%" alt="AERIS: UAV engine digital twin and predictive health platform" /></a>
+  <a href="https://github.com/nainanishourya/AI4Students-NGO-Website"><img src="assets/card-ai4students.svg" width="49%" alt="AI4Students: NGO website for AI awareness" /></a>
+  <img src="assets/card-exploring.svg" width="49%" alt="Currently exploring: agentic AI, predictive maintenance, security automation, IoT" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/nainanishourya/SentinalAI">SentinalAI</a></h3>
-      <p>Real-time, multi-agent <b>Security Operations Center</b>. A 9-agent LangGraph pipeline detects attacks, reasons like an analyst, maps to <b>MITRE ATT&amp;CK</b> and plans a response, all streamed live to a WebSocket dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/LangGraph-A855F7?style=flat-square" alt="LangGraph" />
-        <img src="https://img.shields.io/badge/WebSocket-0D1117?style=flat-square" alt="WebSocket" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✈️ <a href="https://github.com/nainanishourya/aeris-uav-twin">AERIS: UAV Engine Digital Twin</a></h3>
-      <p>Physics-anchored <b>digital twin</b> and predictive-health platform for aero-piston engines: anomaly detection, fault classification and <b>remaining useful life</b> estimation. Built for <b>Smart India Hackathon 2026</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
-      </p>
-      <p><a href="https://aeris-uav-twin.vercel.app">🔗 Live demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/nainanishourya/AI4Students-NGO-Website">AI4Students NGO Website</a></h3>
-      <p>Responsive multi-page website for an NGO spreading <b>AI awareness</b> among school students (classes 8–12), with a focus on government schools and underserved communities.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-      <p><a href="https://ai4students-ngo-website.vercel.app">🔗 Live site</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔭 Currently Exploring</h3>
-      <ul>
-        <li>Agentic AI &amp; multi-agent orchestration</li>
-        <li>ML for predictive maintenance</li>
-        <li>Security automation &amp; threat detection</li>
-        <li>IoT and autonomous systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://aeris-uav-twin.vercel.app"><img src="https://img.shields.io/badge/AERIS-Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="AERIS live demo" /></a>
+  <a href="https://ai4students-ngo-website.vercel.app"><img src="https://img.shields.io/badge/AI4Students-Live_Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="AI4Students live site" /></a>
+</p>
 
----
-
-## 📊 GitHub Stats
+<img src="assets/h-stats.svg" width="100%" alt="GitHub Analytics" />
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nainanishourya&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub stats" />
@@ -112,9 +66,7 @@ I build intelligent systems, automation tools, and real-world IoT solutions, and
   <img src="https://streak-stats.demolab.com?user=nainanishourya&hide_border=true&background=0D1117&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak" />
 </p>
 
----
-
-## 🐍 Contribution Snake
+<img src="assets/h-activity.svg" width="100%" alt="Contribution Activity" />
 
 <p align="center">
   <picture>
