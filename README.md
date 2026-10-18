@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Chandigarh_University-B.Tech_CSE_(Data_Science)-302b63?style=for-the-badge&labelColor=0D1117" alt="Education" />
   <img src="https://img.shields.io/badge/Class_of-2029-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Class of 2029" />
   <img src="https://img.shields.io/badge/📍_Burhar,_MP-India-A855F7?style=for-the-badge&labelColor=0D1117" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=nainanishourya&style=for-the-badge&color=00D9FF&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/nainanishourya?tab=followers"><img src="https://img.shields.io/github/followers/nainanishourya?style=for-the-badge&logo=github&label=Followers&color=00D9FF&labelColor=0D1117" alt="GitHub followers" /></a>
 </p>
 
 ---
@@ -23,18 +23,11 @@
 I'm a **B.Tech CSE (Data Science)** student at **Chandigarh University**, passionate about **AI, Machine Learning, Cybersecurity, and Software Development**.
 I build intelligent systems, automation tools, and real-world IoT solutions, and I'm always exploring new technologies and turning ideas into working projects.
 
-```python
-class ShouryaNainani:
-    def __init__(self):
-        self.education = "B.Tech CSE (Data Science) @ Chandigarh University, 2029"
-        self.location  = "Burhar, Madhya Pradesh, India"
-        self.focus     = ["Artificial Intelligence", "Machine Learning",
-                          "Cybersecurity", "Automation", "IoT & Autonomous Systems"]
-        self.building  = ["Multi-agent AI systems", "Digital twins", "Real-time dashboards"]
-
-    def motto(self):
-        return "Turning ideas into working projects."
-```
+- 🎓 Pursuing **B.Tech CSE (Data Science)** at **Chandigarh University** (Class of 2029)
+- 🤖 Focused on **Artificial Intelligence, Machine Learning & Automation**
+- 🛡️ Exploring **Cybersecurity**: threat detection and security automation
+- 🛰️ Building **IoT & autonomous systems**: digital twins, real-time telemetry
+- ⚡ Motto: *Turning ideas into working projects.*
 
 ---
 
