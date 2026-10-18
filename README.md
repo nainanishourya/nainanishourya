@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Chandigarh_University-B.Tech_CSE_(Data_Science)-302b63?style=for-the-badge&labelColor=0D1117" alt="Education" />
   <img src="https://img.shields.io/badge/Class_of-2029-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Class of 2029" />
   <img src="https://img.shields.io/badge/📍_Burhar,_MP-India-A855F7?style=for-the-badge&labelColor=0D1117" alt="Location" />
+  <a href="https://www.linkedin.com/in/shouryanainani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
   <a href="https://github.com/nainanishourya?tab=followers"><img src="https://img.shields.io/github/followers/nainanishourya?style=for-the-badge&logo=github&label=Followers&color=00D9FF&labelColor=0D1117" alt="GitHub followers" /></a>
 </p>
 
@@ -27,7 +28,7 @@ I'm a **B.Tech CSE (Data Science)** student at **Chandigarh University**, passio
 <img src="assets/h-stack.svg" width="100%" alt="Tech Stack" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,fastapi,sklearn,pandas,numpy&theme=dark&perline=8" alt="Languages and libraries" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,fastapi,sklearn,pandas,numpy&theme=dark&perline=8" alt="Languages and libraries" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,mqtt&theme=dark&perline=8" alt="Tools" />
 </p>
@@ -55,6 +56,74 @@ I'm a **B.Tech CSE (Data Science)** student at **Chandigarh University**, passio
   <a href="https://ai4students-ngo-website.vercel.app"><img src="https://img.shields.io/badge/AI4Students-Live_Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="AI4Students live site" /></a>
 </p>
 
+<img src="assets/h-certs.svg" width="100%" alt="Certifications" />
+
+<p align="center">
+  <img src="assets/cert-highlights.svg" width="100%" alt="38 certifications including BITS Pilani, Google and IBM" />
+</p>
+
+| Certification | Issued by | Verify |
+| :-- | :-- | :-: |
+| 🖥️ **MIPS Computer Architecture and Performance Optimization** | BITS Pilani · Coursera | [✅ Verify](https://coursera.org/verify/JWH9H5O9JTG5) |
+| 🖥️ **Introduction to Computing Systems** | BITS Pilani · Coursera | [✅ Verify](https://coursera.org/verify/ESOJYLGY2I14) |
+| 📋 **Foundations of Project Management** | Google · Coursera | [✅ Verify](https://coursera.org/verify/Q1EW678CGHB3) |
+| ⚙️ **Software Foundation Course: C++** | IBM Developer Skills Network | [✅ Verify](https://courses.cu.skillsnetwork.site/certificates/d97d1ca7441346dd9721e6982d081b38) |
+| 🔬 **Critical Enquiry and Research Methodology** | Chandigarh University · Coursera | [✅ Verify](https://coursera.org/verify/7OWGTSVNMRVW) |
+| 🚀 **Entrepreneurial Mindset: Build, Grow & Lead Your Own Venture** | Chandigarh University · Coursera | [✅ Verify](https://coursera.org/verify/8J0I6PWPPEPP) |
+
+<details>
+<summary><b>🤖 Generative AI: 14 courses</b> (LinkedIn Learning)</summary>
+<br />
+
+- Generative AI: Introduction to Large Language Models
+- Responsible Generative AI and Local LLMs
+- Introduction to Generative Adversarial Networks (GANs)
+- Introduction to Generative AI with GPT
+- Generative AI for Cyber Range and Training
+- HTML, CSS, and Generative AI: Speed Up Your Process
+- Generative AI vs. Traditional AI
+- What Is Generative AI?
+- Discover the Possibilities of Generative AI
+- How to Research and Write Using Generative AI Tools
+- Integrating Generative AI into Business Strategy
+- Generative AI for Business Leaders
+- Generative AI in Learning and Development
+- AI and Generative AI for Video Content Creation
+
+</details>
+
+<details>
+<summary><b>📊 Data, Excel &amp; Mathematics: 7 courses</b> (LinkedIn Learning)</summary>
+<br />
+
+- Programming Foundations: Discrete Mathematics
+- Learning Everyday Math
+- Excel: Macros and VBA for Beginners
+- Excel Formulas and Functions Quick Tips
+- Learning Excel Desktop (Microsoft 365)
+- Excel: Introduction to Formatting
+- Excel Quick Tips
+
+</details>
+
+<details>
+<summary><b>🧠 Problem Solving &amp; Professional Skills: 11 courses</b> (LinkedIn Learning)</summary>
+<br />
+
+- Critical Thinking and Problem Solving
+- Problem-Solving Techniques
+- A3 Problem Solving for Continuous Improvement
+- Decision-Making Strategies
+- Crafting Problem and Solution Statements
+- Take a More Creative Approach to Problem-Solving
+- Solving Business Problems
+- Skills for Inclusive Conversations
+- Leadership Strategies for Women
+- Success Strategies for Women in the Workplace
+- Preventing Harassment in the Workplace
+
+</details>
+
 <img src="assets/h-stats.svg" width="100%" alt="GitHub Analytics" />
 
 <p align="center">
@@ -74,6 +143,12 @@ I'm a **B.Tech CSE (Data Science)** student at **Chandigarh University**, passio
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nainanishourya/nainanishourya/output/github-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nainanishourya/nainanishourya/output/github-snake-dark.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <b>Let's connect and build something intelligent together.</b><br /><br />
+  <a href="https://www.linkedin.com/in/shouryanainani"><img src="https://img.shields.io/badge/LinkedIn-shouryanainani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/nainanishourya"><img src="https://img.shields.io/badge/GitHub-nainanishourya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <!-- Footer -->
